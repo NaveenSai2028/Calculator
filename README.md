@@ -6,7 +6,7 @@
 
     
     <style>
-        /* CSS: Styling the Calculator */
+        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f6f5f5; 
